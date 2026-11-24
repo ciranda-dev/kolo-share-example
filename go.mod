@@ -3,13 +3,13 @@ module github.com/ciranda-dev/kolo-share-example
 go 1.26.0
 
 require (
-	github.com/ciranda-dev/kolo-blobs v0.1.0
-	github.com/ciranda-dev/kolo-files v0.1.0
+	github.com/ciranda-dev/kolo-blobs v0.1.1
+	github.com/ciranda-dev/kolo-files v0.1.1
 	github.com/ciranda-dev/kolo-id v0.1.0
 	github.com/ciranda-dev/kolo-log v0.1.0
-	github.com/ciranda-dev/kolo-secure v0.1.0
+	github.com/ciranda-dev/kolo-secure v0.1.1
 	github.com/ciranda-dev/kolo-store v0.1.0
-	github.com/ciranda-dev/kolo-sync v0.1.0
+	github.com/ciranda-dev/kolo-sync v0.1.1
 )
 
 require (
@@ -19,7 +19,7 @@ require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/ciranda-dev/kolo-codec v0.1.0 // indirect
-	github.com/ciranda-dev/kolo-transport v0.1.0 // indirect
+	github.com/ciranda-dev/kolo-transport v0.1.1 // indirect
 	github.com/cockroachdb/crlib v0.0.0-20241112164430-1264a2edc35b // indirect
 	github.com/cockroachdb/errors v1.11.3 // indirect
 	github.com/cockroachdb/logtags v0.0.0-20230118201751-21c54148d20b // indirect
@@ -31,7 +31,7 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/golang/snappy v0.0.5-0.20231225225746-43d5d4cd4e0e // indirect
-	github.com/klauspost/compress v1.17.11 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
